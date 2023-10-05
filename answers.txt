@@ -1,0 +1,10 @@
+[01] Guido van Rossum
+[02] Java is a platform-independent programming language
+[03] JRE
+[04] Use of pointers
+[05] none of the mentioned
+[06] .java
+[07] Compilation
+[08] Referring to the instance variable when a local variable has the same name
+[09] Floating-point value assigned to a Floating type
+[10] java.io

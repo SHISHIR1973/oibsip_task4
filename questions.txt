@@ -1,0 +1,50 @@
+Who invented Java Programming?
+Guido van Rossum
+James Gosling
+Dennis Ritchie
+Bjarne Stroustrup
+Which statement is true about Java?
+Java is a sequence-dependent programming language
+Java is a code dependent programming language
+Java is a platform-dependent programming language
+Java is a platform-independent programming language
+Which component is used to compile, debug and execute the java programs?
+JRE
+JIT
+JDK
+JVM
+Which one of the following is not a Java feature?
+Object-oriented
+Use of pointers
+Portable
+Dynamic and Extensible
+Which of these cannot be used for a variable name in Java?
+identifier & keyword
+identifier
+keyword
+none of the mentioned
+What is the extension of java code files?
+.js
+.txt
+.class
+.java
+ Which of the following is not an OOPS concept in Java?
+Polymorphism
+Inheritance
+Compilation
+Encapsulation
+What is not the use of "this" keyword in Java?
+Referring to the instance variable when a local variable has the same name
+Passing itself to the method of the same class
+Passing itself to another method
+Calling another constructor in constructor chaining
+What is Truncation in Java?
+Floating-point value assigned to a Floating type
+Floating-point value assigned to an integer type
+Integer value assigned to floating type
+Integer value assigned to floating type
+Which of these packages contains the exception Stack Overflow in Java?
+java.io
+java.system
+java.lang
+java.util
