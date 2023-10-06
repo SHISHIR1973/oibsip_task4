@@ -12,3 +12,34 @@
 <b>• Timer and auto submit </b>- Timer can be set according to number of questions and time required. All answers will be auto submitted after time is out.
 
 <b>• Closing session and Logout </b>- Logout after submitting all answers or after time out for exam duration.
+***
+### commands
+<b>1. For compilation:</b>
+~~~
+javac <filename.java>
+~~~
+~~~
+javac NumberGuessingGame.java
+~~~
+<b>2. For execution:</b>
+~~~
+java <filename>
+~~~
+~~~
+java NumberGuessingGame
+~~~***
+### commands
+<b>1. For compilation:</b>
+~~~
+javac <filename.java>
+~~~
+~~~
+javac OnlineExamination.java
+~~~
+<b>2. For execution:</b>
+~~~
+java <filename>
+~~~
+~~~
+java OnlineExamination
+~~~
