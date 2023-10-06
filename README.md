@@ -1,6 +1,11 @@
 # ONLINE EXAMINATION SYSTEM
 &nbsp;&nbsp;&nbsp;&nbsp;This project is built in java using swing. it has a login window which enables only registered user can appear in the examination. After successfull login with user ID and Password it is promoted to main window consisting of features like update profile, set of questions and their status, logout from current session, exit from examination, Timer display with auto submit feature.
 ***
+### REQUIREMENTS
+1. <a href="https://www.oracle.com/in/java/technologies/javase/javase8-archive-downloads.html" target="_blank">JDK 8</a>
+2. Any Code Editor ( <a href="https://code.visualstudio.com/download" target="_blank">VS Code</a> )
+***
+### FUNCTIONALITIES
  This project is capable of the following functionalities:
  
 <b> • Login </b>-User can only login through provided USER ID and PASSWORD.
@@ -13,7 +18,7 @@
 
 <b>• Closing session and Logout </b>- Logout after submitting all answers or after time out for exam duration.
 ***
-### commands
+### COMMANDS
 <b>1. For compilation:</b>
 ~~~
 javac <filename.java>
