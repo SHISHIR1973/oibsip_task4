@@ -19,21 +19,6 @@
 javac <filename.java>
 ~~~
 ~~~
-javac NumberGuessingGame.java
-~~~
-<b>2. For execution:</b>
-~~~
-java <filename>
-~~~
-~~~
-java NumberGuessingGame
-~~~***
-### commands
-<b>1. For compilation:</b>
-~~~
-javac <filename.java>
-~~~
-~~~
 javac OnlineExamination.java
 ~~~
 <b>2. For execution:</b>
